@@ -1,0 +1,25 @@
+{
+  "name": "week5_v3",
+  "version": "0.0.1",
+  "description": "version 3 of week 5 project",
+  "main": "week5.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soke312/FullStackDev.git"
+  },
+  "author": "fredy arvizu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soke312/FullStackDev/issues"
+  },
+  "homepage": "https://github.com/Soke312/FullStackDev#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "http-server": "^0.12.3",
+    "jquery": "^3.5.1",
+    "mongodb": "^3.6.2"
+  }
+}
